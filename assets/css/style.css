@@ -2302,7 +2302,8 @@ section {
 
 
 .upi-img{
-    height: 100%;
+    width: 400px;
+    height: 450px;
     display: flex;
     align-items: center;
     justify-content: center;
